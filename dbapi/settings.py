@@ -62,8 +62,8 @@ DATABASES = {
         'NAME': 'api_db',
         'HOST': 'localhost',
         'PORT': '3306',
-        'USER': 'api_user',
-        'PASSWORD': '1234',
+        'USER': 'login',
+        'PASSWORD': 'password',
     }
 }
 
